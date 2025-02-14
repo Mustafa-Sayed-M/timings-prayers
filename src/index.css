@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global */
+html,
+body {
+    overflow-x: hidden;
+    font-family: "Amiri", serif;
+}
